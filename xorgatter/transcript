@@ -1,0 +1,1419 @@
+# Compile of ExampleXORGatter.vhd was successful.
+# Compile of tb_XORGATTER.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_xorgatter
+# vsim work.tb_xorgatter 
+# Start time: 23:32:29 on Apr 08,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.xorgatter(data)
+add wave -position insertpoint sim:/tb_xorgatter/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# ** UI-Msg: (vish-4014) No objects found matching 'sim:/tb_xorgatter/stim_proc'.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+quit -sim
+# End time: 23:39:18 on Apr 08,2025, Elapsed time: 0:06:49
+# Errors: 0, Warnings: 2
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+vcom ExampleXORGatter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:42:03 on Apr 08,2025
+# vcom -reportprogress 300 ExampleXORGatter.vhd 
+# -- Loading package STANDARD
+# -- Compiling entity XORGATTER
+# -- Compiling architecture Data of XORGATTER
+# End time: 23:42:03 on Apr 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom tb_XORGATTER.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:42:03 on Apr 08,2025
+# vcom -reportprogress 300 tb_XORGATTER.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_XORGATTER
+# -- Compiling architecture behavior of tb_XORGATTER
+# -- Loading entity XORGATTER
+# End time: 23:42:03 on Apr 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+
+vsim work.tb_XORGATTER
+# vsim work.tb_XORGATTER 
+# Start time: 23:42:16 on Apr 08,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.xorgatter(data)
+add wave *
+run 10 sec
+run 10 sec
+
+vcom XORGATTER.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:45:12 on Apr 08,2025
+# vcom -reportprogress 300 XORGATTER.vhd 
+# ** Error: (vcom-7) Failed to open design unit file "XORGATTER.vhd" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 23:45:12 on Apr 08,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+vcom tb_XORGATTER.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:45:12 on Apr 08,2025
+# vcom -reportprogress 300 tb_XORGATTER.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_XORGATTER
+# -- Compiling architecture behavior of tb_XORGATTER
+# -- Loading entity XORGATTER
+# ** Error: tb_XORGATTER.vhd(14): Signal "X" is type ieee.std_logic_1164.STD_LOGIC; expecting type std.STANDARD.BIT.
+# ** Error: tb_XORGATTER.vhd(15): Signal "Y" is type ieee.std_logic_1164.STD_LOGIC; expecting type std.STANDARD.BIT.
+# ** Error: tb_XORGATTER.vhd(16): Signal "Z" is type ieee.std_logic_1164.STD_LOGIC; expecting type std.STANDARD.BIT.
+# ** Note: tb_XORGATTER.vhd(28): VHDL Compiler exiting
+# End time: 23:45:12 on Apr 08,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+vsim work.tb_XORGATTER
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 23:45:14 on Apr 08,2025, Elapsed time: 0:02:58
+# Errors: 0, Warnings: 2
+# vsim work.tb_XORGATTER 
+# Start time: 23:45:14 on Apr 08,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.xorgatter(data)
+add wave *
+run 10 sec
+
+vcom XORGATTER.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:45:31 on Apr 08,2025
+# vcom -reportprogress 300 XORGATTER.vhd 
+# ** Error: (vcom-7) Failed to open design unit file "XORGATTER.vhd" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 23:45:31 on Apr 08,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+vcom tb_XORGATTER.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:45:31 on Apr 08,2025
+# vcom -reportprogress 300 tb_XORGATTER.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_XORGATTER
+# -- Compiling architecture behavior of tb_XORGATTER
+# -- Loading entity XORGATTER
+# ** Error: tb_XORGATTER.vhd(14): Signal "X" is type ieee.std_logic_1164.STD_LOGIC; expecting type std.STANDARD.BIT.
+# ** Error: tb_XORGATTER.vhd(15): Signal "Y" is type ieee.std_logic_1164.STD_LOGIC; expecting type std.STANDARD.BIT.
+# ** Error: tb_XORGATTER.vhd(16): Signal "Z" is type ieee.std_logic_1164.STD_LOGIC; expecting type std.STANDARD.BIT.
+# ** Note: tb_XORGATTER.vhd(28): VHDL Compiler exiting
+# End time: 23:45:31 on Apr 08,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+vsim work.tb_XORGATTER
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 23:45:33 on Apr 08,2025, Elapsed time: 0:00:19
+# Errors: 0, Warnings: 1
+# vsim work.tb_XORGATTER 
+# Start time: 23:45:33 on Apr 08,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.xorgatter(data)
+add wave *
+run 10 sec
+
+# Compile of ExampleXORGatter.vhd was successful.
+# Compile of tb_XORGATTER.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+vcom XORGATTER.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:45:53 on Apr 08,2025
+# vcom -reportprogress 300 XORGATTER.vhd 
+# ** Error: (vcom-7) Failed to open design unit file "XORGATTER.vhd" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 23:45:54 on Apr 08,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+vcom tb_XORGATTER.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:45:54 on Apr 08,2025
+# vcom -reportprogress 300 tb_XORGATTER.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_XORGATTER
+# -- Compiling architecture behavior of tb_XORGATTER
+# -- Loading entity XORGATTER
+# End time: 23:45:54 on Apr 08,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.tb_XORGATTER
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 23:45:55 on Apr 08,2025, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 2
+# vsim work.tb_XORGATTER 
+# Start time: 23:45:56 on Apr 08,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.xorgatter(data)
+add wave *
+run 10 sec
+
+run
+# Compile of ExampleXORGatter.vhd was successful.
+# Compile of tb_XORGATTER.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+vsim work.tb_XORGATTER
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 23:48:28 on Apr 08,2025, Elapsed time: 0:02:32
+# Errors: 0, Warnings: 2
+# vsim work.tb_XORGATTER 
+# Start time: 23:48:28 on Apr 08,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.xorgatter(data)
+add wave *
+run 10 sec
+
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of ExampleXORGatter.vhd was successful.
+# Compile of tb_XORGATTER.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+vsim work.tb_XORGATTER
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 00:02:36 on Apr 09,2025, Elapsed time: 0:14:08
+# Errors: 0, Warnings: 2
+# vsim work.tb_XORGATTER 
+# Start time: 00:02:36 on Apr 09,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.examplexorgatter(data)
+
+add wave *
+
+run 10 us
+run 20 us
+force -freeze sim:/tb_xorgatter/X 0 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 00:07:04 on Apr 09,2025, Elapsed time: 0:04:28
+# Errors: 0, Warnings: 1
+vsim work.tb_xorgatter
+# vsim work.tb_xorgatter 
+# Start time: 00:07:10 on Apr 09,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.examplexorgatter(data)
+add wave -position insertpoint sim:/tb_xorgatter/*
+add dataflow sim:/tb_xorgatter/*
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_xorgatter/*
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of ExampleXORGatter.vhd was successful.
+# Compile of tb_XORGATTER.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+vsim work.tb_xorgatter
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 00:09:54 on Apr 09,2025, Elapsed time: 0:02:44
+# Errors: 0, Warnings: 2
+# vsim work.tb_xorgatter 
+# Start time: 00:09:54 on Apr 09,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_xorgatter(behavior)
+# Loading work.examplexorgatter(data)
+add wave -position insertpoint sim:/tb_xorgatter/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Warning: ; Warning -- Do not edit the project properties directly.
+# End time: 00:28:05 on Apr 09,2025, Elapsed time: 0:18:11
+# Errors: 0, Warnings: 1

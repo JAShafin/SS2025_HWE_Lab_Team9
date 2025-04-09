@@ -1,0 +1,32 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity RIPPLE4_ADDER is
+    port (
+        A, B : in std_logic_vector(3 downto 0);
+        Cin  : in std_logic;
+        Sum  : out std_logic_vector(3 downto 0);
+        Cout : out std_logic
+    );
+end entity;
+
+architecture structure of RIPPLE4_ADDER is
+    component FULLADDER
+        port (
+            A, B, Cin : in std_logic;
+            Sum, Cout : out std_logic
+        );
+    end component;
+
+    signal c : std_logic_vector(4 downto 0); -- carry chain
+begin
+    c(0) <= Cin;
+
+    FA0: FULLADDER port map(A => A(0), B => B(0), Cin => c(0), Sum => Sum(0), Cout => c(1));
+    FA1: FULLADDER port map(A => A(1), B => B(1), Cin => c(1), Sum => Sum(1), Cout => c(2));
+    FA2: FULLADDER port map(A => A(2), B => B(2), Cin => c(2), Sum => Sum(2), Cout => c(3));
+    FA3: FULLADDER port map(A => A(3), B => B(3), Cin => c(3), Sum => Sum(3), Cout => c(4));
+
+    Cout <= c(4);
+end architecture;
+

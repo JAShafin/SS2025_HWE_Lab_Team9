@@ -1,0 +1,28 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity tb_XORGATTER is
+end entity;
+
+architecture behavior of tb_XORGATTER is
+    signal X, Y : bit := '0';
+    signal Z    : bit;
+begin
+    -- Instantiate the Unit Under Test (UUT)
+    uut: entity work.XORGATTER
+        port map (
+            X => X,
+            Y => Y,
+            Z => Z
+        );
+
+    -- Stimulus process
+    process
+    begin
+        X <= '0'; Y <= '0'; wait for 10 ns;
+        X <= '0'; Y <= '1'; wait for 10 ns;
+        X <= '1'; Y <= '0'; wait for 10 ns;
+        X <= '1'; Y <= '1'; wait for 10 ns;
+        wait;
+    end process;
+end architecture;

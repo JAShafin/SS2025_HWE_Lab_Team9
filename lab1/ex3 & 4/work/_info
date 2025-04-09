@@ -1,0 +1,404 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2
+Eadder_subtractor_4bit
+Z0 w1744192993
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 42
+Z5 dC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3
+Z6 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/Adder_Subtractor_4bit.vhd
+Z7 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/Adder_Subtractor_4bit.vhd
+l0
+L5 1
+VaWZ?RoPK8jQFH^Cfj]fdH0
+!s100 ;LeRGEV_1JfaL=h_NL]oX3
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1744193088
+!i10b 1
+Z10 !s108 1744193087.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/Adder_Subtractor_4bit.vhd|
+Z12 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/Adder_Subtractor_4bit.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+DEx4 work 21 adder_subtractor_4bit 0 22 aWZ?RoPK8jQFH^Cfj]fdH0
+!i122 42
+l27
+L14 27
+VlP;8Oj;=7kMJ7He=iDHM]0
+!s100 kAjM99?1Hm>7Ol9UY@loI0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Efulladder
+Z15 w1744187220
+R3
+R4
+!i122 30
+R5
+Z16 8C:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd
+Z17 FC:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd
+l0
+L4 1
+VWhe>5N=XVM[?m_]kdUd4P2
+!s100 hPiR]bIXQD>D4CAO=H>Qj2
+R8
+32
+Z18 !s110 1744190135
+!i10b 1
+Z19 !s108 1744190134.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd|
+Z21 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd|
+!i113 1
+R13
+R14
+Astructural
+R3
+R4
+DEx4 work 9 fulladder 0 22 Whe>5N=XVM[?m_]kdUd4P2
+!i122 30
+l22
+L11 19
+V][`FW=RZ68^`N2@bCF7:f3
+!s100 S[dz7hEGMSDje?7;7M]Y?1
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Egeneric_ripple_adder
+Z22 w1744191893
+R3
+R4
+!i122 37
+R5
+Z23 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/GENERIC_RIPPLE_ADDER.vhd
+Z24 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/GENERIC_RIPPLE_ADDER.vhd
+l0
+L4 1
+VZ6VNW;7<ZA=96N66YmG4e2
+!s100 Oj0Y0=CUJ5>^BLJ7ZRQZa1
+R8
+32
+Z25 !s110 1744191934
+!i10b 1
+Z26 !s108 1744191934.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/GENERIC_RIPPLE_ADDER.vhd|
+Z28 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/GENERIC_RIPPLE_ADDER.vhd|
+!i113 1
+R13
+R14
+Astructure
+R3
+R4
+DEx4 work 20 generic_ripple_adder 0 22 Z6VNW;7<ZA=96N66YmG4e2
+!i122 37
+l25
+L16 24
+VZDhb78_ffPIgUSSLPNMaN0
+!s100 XSQA>YTIljheemEWPLj2^3
+R8
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R13
+R14
+Emy_fulladder
+Z29 w1744191232
+R3
+R4
+!i122 40
+R5
+Z30 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_FULLADDER.vhd
+Z31 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_FULLADDER.vhd
+l0
+L4 1
+VT<<GTS2[^oLKW[D`<_]QL0
+!s100 ;GYTN0mS;PEkZKWbXV[JM1
+R8
+32
+Z32 !s110 1744193075
+!i10b 1
+Z33 !s108 1744193074.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_FULLADDER.vhd|
+Z35 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_FULLADDER.vhd|
+!i113 1
+R13
+R14
+Astructural
+R3
+R4
+DEx4 work 12 my_fulladder 0 22 T<<GTS2[^oLKW[D`<_]QL0
+!i122 40
+l21
+L11 15
+VIW[eYRoAL14>GI9a[`?c03
+!s100 icdBhdDXAziOT9A<R5ZOD1
+R8
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R13
+R14
+Emy_halfadder
+Z36 w1744191222
+R3
+R4
+!i122 39
+R5
+Z37 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_HALFADDER.vhd
+Z38 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_HALFADDER.vhd
+l0
+L4 1
+VVh4Y]W6kzXL@Sh?lKn^9X3
+!s100 _;ig0:23^1X>9D:1jT;`W0
+R8
+32
+Z39 !s110 1744193069
+!i10b 1
+Z40 !s108 1744193068.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_HALFADDER.vhd|
+Z42 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/MY_HALFADDER.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R3
+R4
+DEx4 work 12 my_halfadder 0 22 Vh4Y]W6kzXL@Sh?lKn^9X3
+!i122 39
+l12
+L11 5
+V0[G^Zc<58c=HEjjimdo>B0
+!s100 I521_><9_HQlkZh4nD[Tn3
+R8
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R13
+R14
+Eripple4_adder
+Z43 w1744191269
+R3
+R4
+!i122 41
+R5
+Z44 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/RIPPLE4_ADDER.vhd
+Z45 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/RIPPLE4_ADDER.vhd
+l0
+L4 1
+VIXXEh<kYEiXgMSO?NSzKf0
+!s100 KF5Dfl[>Ql:>3G:om:9QL2
+R8
+32
+Z46 !s110 1744193081
+!i10b 1
+Z47 !s108 1744193080.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/RIPPLE4_ADDER.vhd|
+Z49 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/RIPPLE4_ADDER.vhd|
+!i113 1
+R13
+R14
+Astructure
+R3
+R4
+DEx4 work 13 ripple4_adder 0 22 IXXEh<kYEiXgMSO?NSzKf0
+!i122 41
+l21
+L13 18
+VWO4AKRF2FXCDmzUXh?VA@2
+!s100 6o;C9=fj[Om8?IG3CnM523
+R8
+32
+R46
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R13
+R14
+Astructural
+R3
+R4
+DEx4 work 13 ripple4_adder 0 22 6;?8Cc>_I@H1A<a?99PR<2
+!i122 15
+l22
+L13 16
+VOMYe6XhIKbS<:k:S5ddRa2
+!s100 ;3dI9_K=m3<8YE`R7XMRV2
+R8
+32
+!s110 1744188889
+!i10b 1
+!s108 1744188889.000000
+R48
+R49
+!i113 1
+R13
+R14
+w1744188754
+Etb_adder_subtractor
+Z50 w1744193008
+R3
+R4
+!i122 43
+R5
+Z51 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_adder_subtractor.vhd
+Z52 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_adder_subtractor.vhd
+l0
+L4 1
+VSA89DJ9UZB::W>bIK0P^z1
+!s100 odln`J9d[QDD4FJfi]E4P1
+R8
+32
+Z53 !s110 1744193095
+!i10b 1
+Z54 !s108 1744193095.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_adder_subtractor.vhd|
+!s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_adder_subtractor.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R3
+R4
+DEx4 work 19 tb_adder_subtractor 0 22 SA89DJ9UZB::W>bIK0P^z1
+!i122 43
+l22
+L7 42
+VdMOYhL36f`3JSD30KE>Zf1
+!s100 P8Bl;]P_XRG9knEXeTafT1
+R8
+32
+R53
+!i10b 1
+R54
+R55
+Z56 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_adder_subtractor.vhd|
+!i113 1
+R13
+R14
+Etb_generic_ripple_adder
+Z57 w1744192489
+R3
+R4
+!i122 38
+R5
+Z58 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_generic_ripple_adder.vhd
+Z59 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_generic_ripple_adder.vhd
+l0
+L4 1
+V@<BNB_aUz:cEcY[:oi6e?0
+!s100 7N2B5_9??oABBPU_dR:Le3
+R8
+32
+Z60 !s110 1744192496
+!i10b 1
+Z61 !s108 1744192496.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_generic_ripple_adder.vhd|
+Z63 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_generic_ripple_adder.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R3
+R4
+DEx4 work 23 tb_generic_ripple_adder 0 22 @<BNB_aUz:cEcY[:oi6e?0
+!i122 38
+l28
+L7 56
+V71HhEWW9_@4MV5>kizgm30
+!s100 0kHIJ:<X]X`lc7<8M=UWG2
+R8
+32
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R13
+R14
+Etb_ripple4_adder
+Z64 w1744189778
+R3
+R4
+!i122 36
+R5
+Z65 8C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_RIPPLE4_ADDER.vhd
+Z66 FC:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_RIPPLE4_ADDER.vhd
+l0
+L4 1
+Vl_7>oglI]7HBZQ<H9ehRL3
+!s100 AFMRK_HBgdU6jkB2V]46T0
+R8
+32
+Z67 !s110 1744191316
+!i10b 1
+Z68 !s108 1744191316.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_RIPPLE4_ADDER.vhd|
+Z70 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/lab1.2/lab1.3/tb_RIPPLE4_ADDER.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R3
+R4
+DEx4 work 16 tb_ripple4_adder 0 22 l_7>oglI]7HBZQ<H9ehRL3
+!i122 36
+l24
+L7 53
+VBJV@CS904P6o>a:m:XUYS3
+!s100 8?`JeC1LEOon`ffiVEZS01
+R8
+32
+R67
+!i10b 1
+R68
+R69
+R70
+!i113 1
+R13
+R14
