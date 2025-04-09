@@ -1,0 +1,95 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/bigbo/Desktop/hw lab/lab2/ex1
+Ebcdto7segment
+Z0 w1744239897
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/bigbo/Desktop/hw lab/lab2/ex2
+Z4 8C:/Users/bigbo/Desktop/hw lab/lab2/ex2/BCDto7Segment.vhd
+Z5 FC:/Users/bigbo/Desktop/hw lab/lab2/ex2/BCDto7Segment.vhd
+l0
+L4 1
+VGzLf5j:imIUlSB86841:R2
+!s100 ji_H<>B<RE1ITmHC0W5e82
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1744239915
+!i10b 1
+Z8 !s108 1744239915.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab2/ex2/BCDto7Segment.vhd|
+Z10 !s107 C:/Users/bigbo/Desktop/hw lab/lab2/ex2/BCDto7Segment.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 13 bcdto7segment 0 22 GzLf5j:imIUlSB86841:R2
+!i122 0
+l12
+L11 19
+VJ;95TZ6PUZR32gVJ0jlYS3
+!s100 gn_<Fh[GMkY`7hC`0_0^L3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_bcdto7segment
+Z13 w1744239962
+Z14 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 2
+R3
+Z15 8C:/Users/bigbo/Desktop/hw lab/lab2/ex2/tb_BCDto7Segment.vhd
+Z16 FC:/Users/bigbo/Desktop/hw lab/lab2/ex2/tb_BCDto7Segment.vhd
+l0
+L5 1
+V^O`ezN2MEXjkVQoDzz6YG3
+!s100 R7NfLgm5mH8:IZ>2OeJo=0
+R6
+32
+Z17 !s110 1744239972
+!i10b 1
+Z18 !s108 1744239971.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab2/ex2/tb_BCDto7Segment.vhd|
+!s107 C:/Users/bigbo/Desktop/hw lab/lab2/ex2/tb_BCDto7Segment.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R14
+R1
+R2
+DEx4 work 16 tb_bcdto7segment 0 22 ^O`ezN2MEXjkVQoDzz6YG3
+!i122 2
+l20
+L8 29
+Vg9>9bE@AH^Pfa1kRADW2S3
+!s100 :Rn8>L]j=TabX>H:<?k>`2
+R6
+32
+R17
+!i10b 1
+R18
+R19
+Z20 !s107 C:/Users/bigbo/Desktop/hw lab/lab2/ex2/tb_BCDto7Segment.vhd|
+!i113 1
+R11
+R12

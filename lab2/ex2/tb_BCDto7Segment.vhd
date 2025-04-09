@@ -1,0 +1,37 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;  -- ? Required for to_unsigned
+
+entity tb_BCDto7Segment is
+end tb_BCDto7Segment;
+
+architecture behavior of tb_BCDto7Segment is
+
+    signal BCD_in : STD_LOGIC_VECTOR(3 downto 0);
+    signal seg    : STD_LOGIC_VECTOR(6 downto 0);
+
+    component BCDto7Segment
+        Port (
+            BCD_in : in  STD_LOGIC_VECTOR(3 downto 0);
+            seg    : out STD_LOGIC_VECTOR(6 downto 0)
+        );
+    end component;
+
+begin
+
+    uut: BCDto7Segment port map (
+        BCD_in => BCD_in,
+        seg    => seg
+    );
+
+    stim_proc: process
+    begin
+        for i in 0 to 15 loop
+            BCD_in <= std_logic_vector(to_unsigned(i, 4));
+            wait for 10 ns;
+        end loop;
+        wait;
+    end process;
+
+end behavior;
+

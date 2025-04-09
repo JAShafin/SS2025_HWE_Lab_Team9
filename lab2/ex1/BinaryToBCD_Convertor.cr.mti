@@ -1,0 +1,19 @@
+{C:/Users/bigbo/Desktop/hw lab/lab2/ex1/BinaryToBCD_Convertor.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bigbo/Desktop/hw lab/lab2/ex1/BinaryToBCD_Convertor.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity BinaryToBCD_Convertor
+-- Compiling architecture Behavioral of BinaryToBCD_Convertor
+
+} {} {}} {C:/Users/bigbo/Desktop/hw lab/lab2/ex1/tb_BinaryToBCD_Convertor.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/bigbo/Desktop/hw lab/lab2/ex1/tb_BinaryToBCD_Convertor.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_BinaryToBCD_Convertor
+-- Compiling architecture behavior of tb_BinaryToBCD_Convertor
+
+} {} {}}

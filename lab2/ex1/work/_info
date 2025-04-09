@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bigbo/Desktop/hw lab/lab2/ex1
+Ebinarytobcd_convertor
+Z1 w1744239564
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8C:/Users/bigbo/Desktop/hw lab/lab2/ex1/BinaryToBCD_Convertor.vhd
+Z6 FC:/Users/bigbo/Desktop/hw lab/lab2/ex1/BinaryToBCD_Convertor.vhd
+l0
+L5 1
+V`PFz<7]CYZRG_4PMgI[@M1
+!s100 QVQ7zfD^l44P^;8[PAHLK0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1744239596
+!i10b 1
+Z9 !s108 1744239595.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab2/ex1/BinaryToBCD_Convertor.vhd|
+Z11 !s107 C:/Users/bigbo/Desktop/hw lab/lab2/ex1/BinaryToBCD_Convertor.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 21 binarytobcd_convertor 0 22 `PFz<7]CYZRG_4PMgI[@M1
+!i122 0
+l14
+L13 13
+Vk615c?jGD5Oe>>=5L5QLG1
+!s100 k09Y38cG?;a=IQAoW=6m=2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_binarytobcd_convertor
+Z14 w1744239655
+R2
+R3
+R4
+!i122 1
+R0
+Z15 8C:/Users/bigbo/Desktop/hw lab/lab2/ex1/tb_BinaryToBCD_Convertor.vhd
+Z16 FC:/Users/bigbo/Desktop/hw lab/lab2/ex1/tb_BinaryToBCD_Convertor.vhd
+l0
+L5 1
+VMG`i;DXW[o0`H8FQbO[h>1
+!s100 ?H84GS3j4kendAmGVLC`22
+R7
+32
+Z17 !s110 1744239659
+!i10b 1
+Z18 !s108 1744239659.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab2/ex1/tb_BinaryToBCD_Convertor.vhd|
+!s107 C:/Users/bigbo/Desktop/hw lab/lab2/ex1/tb_BinaryToBCD_Convertor.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+R4
+DEx4 work 24 tb_binarytobcd_convertor 0 22 MG`i;DXW[o0`H8FQbO[h>1
+!i122 1
+l22
+L8 34
+VDZ1@6PEJ?L>ZHzA861:Fz3
+!s100 J>of`a^ieNNUW_TF^JJoQ3
+R7
+32
+R17
+!i10b 1
+R18
+R19
+Z20 !s107 C:/Users/bigbo/Desktop/hw lab/lab2/ex1/tb_BinaryToBCD_Convertor.vhd|
+!i113 1
+R12
+R13

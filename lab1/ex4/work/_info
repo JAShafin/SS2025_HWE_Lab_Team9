@@ -15,21 +15,21 @@ Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
 Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 6
+!i122 8
 Z5 dC:/Users/bigbo/Desktop/hw lab/lab1/ex4
-Z6 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/Adder_Subtractor_4bit.vhd
-Z7 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/Adder_Subtractor_4bit.vhd
+Z6 8C:/Users/bigbo/Desktop/hw lab/lab1/ex4/Adder_Subtractor_4bit.vhd
+Z7 FC:/Users/bigbo/Desktop/hw lab/lab1/ex4/Adder_Subtractor_4bit.vhd
 l0
 L5 1
 VaWZ?RoPK8jQFH^Cfj]fdH0
 !s100 ;LeRGEV_1JfaL=h_NL]oX3
 Z8 OV;C;2020.1;71
 32
-Z9 !s110 1744230405
+Z9 !s110 1744240450
 !i10b 1
-Z10 !s108 1744230405.000000
-Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/Adder_Subtractor_4bit.vhd|
-Z12 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/Adder_Subtractor_4bit.vhd|
+Z10 !s108 1744240450.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex4/Adder_Subtractor_4bit.vhd|
+Z12 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex4/Adder_Subtractor_4bit.vhd|
 !i113 1
 Z13 o-work work -2002 -explicit
 Z14 tExplicit 1 CvgOpt 0
@@ -39,7 +39,7 @@ R2
 R3
 R4
 DEx4 work 21 adder_subtractor_4bit 0 22 aWZ?RoPK8jQFH^Cfj]fdH0
-!i122 6
+!i122 8
 l27
 L14 27
 VlP;8Oj;=7kMJ7He=iDHM]0
@@ -222,40 +222,40 @@ Etb_adder_subtractor
 Z43 w1744193008
 R3
 R4
-!i122 7
+!i122 9
 R5
-Z44 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_adder_subtractor.vhd
-Z45 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_adder_subtractor.vhd
+Z44 8C:/Users/bigbo/Desktop/hw lab/lab1/ex4/tb_adder_subtractor.vhd
+Z45 FC:/Users/bigbo/Desktop/hw lab/lab1/ex4/tb_adder_subtractor.vhd
 l0
 L4 1
 VSA89DJ9UZB::W>bIK0P^z1
 !s100 odln`J9d[QDD4FJfi]E4P1
 R8
 32
-Z46 !s110 1744230411
+Z46 !s110 1744240456
 !i10b 1
-Z47 !s108 1744230411.000000
-Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_adder_subtractor.vhd|
-Z49 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_adder_subtractor.vhd|
+Z47 !s108 1744240456.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex4/tb_adder_subtractor.vhd|
+!s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex4/tb_adder_subtractor.vhd|
 !i113 1
 R13
 R14
 Abehavior
 R3
 R4
-Z50 DEx4 work 19 tb_adder_subtractor 0 22 SA89DJ9UZB::W>bIK0P^z1
-!i122 7
+Z49 DEx4 work 19 tb_adder_subtractor 0 22 SA89DJ9UZB::W>bIK0P^z1
+!i122 9
 l22
-Z51 L7 42
-Z52 VdMOYhL36f`3JSD30KE>Zf1
-Z53 !s100 P8Bl;]P_XRG9knEXeTafT1
+Z50 L7 42
+Z51 VdMOYhL36f`3JSD30KE>Zf1
+Z52 !s100 P8Bl;]P_XRG9knEXeTafT1
 R8
 32
 R46
 !i10b 1
 R47
 R48
-R49
+Z53 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex4/tb_adder_subtractor.vhd|
 !i113 1
 R13
 R14

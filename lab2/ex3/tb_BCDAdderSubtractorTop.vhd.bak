@@ -1,0 +1,51 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+
+entity tb_BCDAdderSubtractorTop is
+end tb_BCDAdderSubtractorTop;
+
+architecture behavior of tb_BCDAdderSubtractorTop is
+
+    signal A, B     : STD_LOGIC_VECTOR(3 downto 0);
+    signal Mode     : STD_LOGIC;
+    signal seg_tens, seg_units : STD_LOGIC_VECTOR(6 downto 0);
+
+    component BCDAdderSubtractorTop
+        Port (
+            A, B     : in  STD_LOGIC_VECTOR(3 downto 0);
+            Mode     : in  STD_LOGIC;
+            seg_tens  : out STD_LOGIC_VECTOR(6 downto 0);
+            seg_units : out STD_LOGIC_VECTOR(6 downto 0)
+        );
+    end component;
+
+begin
+
+    uut: BCDAdderSubtractorTop port map (
+        A => A,
+        B => B,
+        Mode => Mode,
+        seg_tens => seg_tens,
+        seg_units => seg_units
+    );
+
+    stim_proc: process
+    begin
+        -- Test 1: 7 + 2 = 9
+        A <= "0111"; B <= "0010"; Mode <= '0'; wait for 10 ns;
+
+        -- Test 2: 9 - 3 = 6
+        A <= "1001"; B <= "0011"; Mode <= '1'; wait for 10 ns;
+
+        -- Test 3: 6 + 8 = 14
+        A <= "0110"; B <= "1000"; Mode <= '0'; wait for 10 ns;
+
+        -- Test 4: 5 - 7 = (wraps to 14)
+        A <= "0101"; B <= "0111"; Mode <= '1'; wait for 10 ns;
+
+        wait;
+    end process;
+
+end behavior;
+
