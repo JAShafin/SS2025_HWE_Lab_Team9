@@ -8,38 +8,38 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/bigbo/Desktop/XOR_Project
-Ehalfadder
-Z0 w1744186346
+dC:/intelFPGA/20.1
+Emy_halfadder
+Z0 w1744228928
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 10
-Z3 dC:/Users/bigbo/Desktop/hw lab/lab1
-Z4 8C:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd
-Z5 FC:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd
+!i122 0
+Z3 dC:/Users/bigbo/Desktop/hw lab/lab1/ex1
+Z4 8C:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd
+Z5 FC:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd
 l0
 L4 1
-VWY2^S1:]jZ;63^mkS[zh20
-!s100 nIZ_1]A1JBPEZ^WCnnK833
+VVh4Y]W6kzXL@Sh?lKn^9X3
+!s100 _;ig0:23^1X>9D:1jT;`W0
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1744186374
+Z7 !s110 1744228944
 !i10b 1
-Z8 !s108 1744186374.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd|
-Z10 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/HALFADDER.vhd|
+Z8 !s108 1744228944.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd|
+Z10 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd|
 !i113 1
 Z11 o-work work -2002 -explicit
 Z12 tExplicit 1 CvgOpt 0
 Abehavior
 R1
 R2
-Z13 DEx4 work 9 halfadder 0 22 WY2^S1:]jZ;63^mkS[zh20
-!i122 10
+DEx4 work 12 my_halfadder 0 22 Vh4Y]W6kzXL@Sh?lKn^9X3
+!i122 0
 l12
 L11 5
-V`c^8ETYnfTfmS2YP[YzKP0
-!s100 `LKP?K7T3MPVL=?NgWK]43
+V0[G^Zc<58c=HEjjimdo>B0
+!s100 I521_><9_HQlkZh4nD[Tn3
 R6
 32
 R7
@@ -50,65 +50,44 @@ R10
 !i113 1
 R11
 R12
-Abehavioral
+Etb_my_halfadder
+Z13 w1744228983
 R1
 R2
-Z14 DEx4 work 9 halfadder 0 22 YeLK4dB6BEhb5>Y_3n?jY0
-!i122 4
-l15
-L14 5
-V<S5Q]UUN2ESB2id8O4m0D3
-!s100 iCfk4J?YiBX?X=T`:Inje1
-R6
-32
-!s110 1744185625
-!i10b 1
-!s108 1744185625.000000
-R9
-R10
-!i113 1
-R11
-R12
-w1744185419
-Etb_halfadder
-Z15 w1744186365
-R1
-R2
-!i122 11
+!i122 1
 R3
-Z16 8C:/Users/bigbo/Desktop/hw lab/lab1/tb_HALFADDER.vhd
-Z17 FC:/Users/bigbo/Desktop/hw lab/lab1/tb_HALFADDER.vhd
+Z14 8C:/Users/bigbo/Desktop/hw lab/lab1/ex1/tb_MY_HALFADDER.vhd
+Z15 FC:/Users/bigbo/Desktop/hw lab/lab1/ex1/tb_MY_HALFADDER.vhd
 l0
 L4 1
-Vn`b=_]mHa4UjV0h^;FdL=3
-!s100 d<P;bVJ2HPiIVh3:g;]3h0
+V84@_?YdBNEanj?7OaH2>^2
+!s100 BgQW]_?3:Clf5oQzcf7md3
 R6
 32
-R7
+Z16 !s110 1744228988
 !i10b 1
-R8
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/tb_HALFADDER.vhd|
-!s107 C:/Users/bigbo/Desktop/hw lab/lab1/tb_HALFADDER.vhd|
+Z17 !s108 1744228988.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex1/tb_MY_HALFADDER.vhd|
+!s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex1/tb_MY_HALFADDER.vhd|
 !i113 1
 R11
 R12
-Abehavior
-R13
+Asim
 R1
 R2
-Z19 DEx4 work 12 tb_halfadder 0 22 n`b=_]mHa4UjV0h^;FdL=3
-!i122 11
-l10
-L7 23
-VUfI5HZT;Ch>4T8CgI@foh2
-!s100 :J2ogE>aXT:HV1XkQ=;o50
+DEx4 work 15 tb_my_halfadder 0 22 84@_?YdBNEanj?7OaH2>^2
+!i122 1
+l19
+L7 44
+VYUORk?FY6a2AYMBC2eoL23
+!s100 V2CWMS[QOiR_HkBlI4<`R2
 R6
 32
-R7
+R16
 !i10b 1
-R8
+R17
 R18
-Z20 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/tb_HALFADDER.vhd|
+Z19 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex1/tb_MY_HALFADDER.vhd|
 !i113 1
 R11
 R12
