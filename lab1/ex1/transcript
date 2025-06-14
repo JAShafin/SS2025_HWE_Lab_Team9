@@ -1,54 +1,32 @@
-# Compile of MY_HALFADDER.vhd was successful.
-# Compile of MY_FULLADDER.vhd was successful.
-# Compile of tb_MY_FULLADDER.vhd was successful.
-vsim work.tb_my_fulladder
-# vsim work.tb_my_fulladder 
-# Start time: 22:08:37 on Apr 09,2025
+# Reading pref.tcl
+# OpenFile {C:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.mpf}
+# Loading project MY_HALFADDER
+vsim work.tb_my_halfadder
+# vsim work.tb_my_halfadder 
+# Start time: 10:10:50 on Apr 15,2025
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading work.tb_my_fulladder(sim)
-# Loading work.my_fulladder(structural)
+# Loading work.tb_my_halfadder(sim)
 # Loading work.my_halfadder(behavior)
-add wave -position insertpoint sim:/tb_my_fulladder/*
-add wave -position insertpoint sim:/tb_my_fulladder/*
-run
-run
-run
-run
-run
-run
+quit -sim
+# End time: 10:18:53 on Apr 15,2025, Elapsed time: 0:08:03
+# Errors: 0, Warnings: 1
+vsim work.tb_my_halfadder
+# vsim work.tb_my_halfadder 
+# Start time: 10:18:56 on Apr 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_my_halfadder(sim)
+# Loading work.my_halfadder(behavior)
+add wave -position insertpoint sim:/tb_my_halfadder/*
 run
 run
 run
 run
 quit -sim
-# End time: 22:11:10 on Apr 09,2025, Elapsed time: 0:02:33
-# Errors: 0, Warnings: 9
-# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
-# Loading project RIPPLE4_ADDER
+# End time: 10:56:31 on Apr 15,2025, Elapsed time: 0:37:35
+# Errors: 0, Warnings: 1
 # Compile of MY_HALFADDER.vhd was successful.
-# Compile of MY_FULLADDER.vhd was successful.
-# Compile of RIPPLE4_ADDER.vhd was successful.
-# Compile of tb_RIPPLE4_ADDER.vhd was successful.
-vsim work.tb_ripple4_adder
-# vsim work.tb_ripple4_adder 
-# Start time: 22:16:04 on Apr 09,2025
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading work.tb_ripple4_adder(behavior)
-# Loading work.ripple4_adder(structure)
-# Loading work.my_fulladder(structural)
-# Loading work.my_halfadder(behavior)
-add wave -position insertpoint sim:/tb_ripple4_adder/*
-run
-run
-run
-run
-run
-run
-quit -sim
-# End time: 22:17:23 on Apr 09,2025, Elapsed time: 0:01:19
-# Errors: 0, Warnings: 11
-# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Compile of MY_HALFADDER.vhd was successful.

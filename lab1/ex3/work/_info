@@ -13,21 +13,21 @@ Egeneric_ripple_adder
 Z0 w1744191893
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 4
+!i122 10
 Z3 dC:/Users/bigbo/Desktop/hw lab/lab1/ex3
-Z4 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/GENERIC_RIPPLE_ADDER.vhd
-Z5 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/GENERIC_RIPPLE_ADDER.vhd
+Z4 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3/GENERIC_RIPPLE_ADDER.vhd
+Z5 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3/GENERIC_RIPPLE_ADDER.vhd
 l0
 L4 1
 VZ6VNW;7<ZA=96N66YmG4e2
 !s100 Oj0Y0=CUJ5>^BLJ7ZRQZa1
 Z6 OV;C;2020.1;71
 32
-Z7 !s110 1744230055
+Z7 !s110 1744706070
 !i10b 1
-Z8 !s108 1744230055.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/GENERIC_RIPPLE_ADDER.vhd|
-Z10 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/GENERIC_RIPPLE_ADDER.vhd|
+Z8 !s108 1744706070.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3/GENERIC_RIPPLE_ADDER.vhd|
+Z10 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3/GENERIC_RIPPLE_ADDER.vhd|
 !i113 1
 Z11 o-work work -2002 -explicit
 Z12 tExplicit 1 CvgOpt 0
@@ -35,7 +35,7 @@ Astructure
 R1
 R2
 DEx4 work 20 generic_ripple_adder 0 22 Z6VNW;7<ZA=96N66YmG4e2
-!i122 4
+!i122 10
 l25
 L16 24
 VZDhb78_ffPIgUSSLPNMaN0
@@ -54,7 +54,7 @@ Emy_fulladder
 Z13 w1744229211
 R1
 R2
-!i122 1
+!i122 7
 R3
 Z14 8C:/Users/bigbo/Desktop/hw lab/lab1/ex2/MY_FULLADDER.vhd
 Z15 FC:/Users/bigbo/Desktop/hw lab/lab1/ex2/MY_FULLADDER.vhd
@@ -64,9 +64,9 @@ VT<<GTS2[^oLKW[D`<_]QL0
 !s100 ;GYTN0mS;PEkZKWbXV[JM1
 R6
 32
-Z16 !s110 1744229740
+Z16 !s110 1744706044
 !i10b 1
-Z17 !s108 1744229740.000000
+Z17 !s108 1744706044.000000
 Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex2/MY_FULLADDER.vhd|
 Z19 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex2/MY_FULLADDER.vhd|
 !i113 1
@@ -76,7 +76,7 @@ Astructural
 R1
 R2
 DEx4 work 12 my_fulladder 0 22 T<<GTS2[^oLKW[D`<_]QL0
-!i122 1
+!i122 7
 l21
 L11 15
 VIW[eYRoAL14>GI9a[`?c03
@@ -95,7 +95,7 @@ Emy_halfadder
 Z20 w1744228928
 R1
 R2
-!i122 0
+!i122 6
 R3
 Z21 8C:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd
 Z22 FC:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd
@@ -105,9 +105,9 @@ VVh4Y]W6kzXL@Sh?lKn^9X3
 !s100 _;ig0:23^1X>9D:1jT;`W0
 R6
 32
-Z23 !s110 1744229736
+Z23 !s110 1744706034
 !i10b 1
-Z24 !s108 1744229736.000000
+Z24 !s108 1744706034.000000
 Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd|
 Z26 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex1/MY_HALFADDER.vhd|
 !i113 1
@@ -117,7 +117,7 @@ Abehavior
 R1
 R2
 DEx4 work 12 my_halfadder 0 22 Vh4Y]W6kzXL@Sh?lKn^9X3
-!i122 0
+!i122 6
 l12
 L11 5
 V0[G^Zc<58c=HEjjimdo>B0
@@ -136,7 +136,7 @@ Eripple4_adder
 Z27 w1744229638
 R1
 R2
-!i122 2
+!i122 8
 R3
 Z28 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3/RIPPLE4_ADDER.vhd
 Z29 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3/RIPPLE4_ADDER.vhd
@@ -146,9 +146,9 @@ VIXXEh<kYEiXgMSO?NSzKf0
 !s100 KF5Dfl[>Ql:>3G:om:9QL2
 R6
 32
-Z30 !s110 1744229745
+Z30 !s110 1744706055
 !i10b 1
-Z31 !s108 1744229745.000000
+Z31 !s108 1744706055.000000
 Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3/RIPPLE4_ADDER.vhd|
 Z33 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3/RIPPLE4_ADDER.vhd|
 !i113 1
@@ -158,7 +158,7 @@ Astructure
 R1
 R2
 DEx4 work 13 ripple4_adder 0 22 IXXEh<kYEiXgMSO?NSzKf0
-!i122 2
+!i122 8
 l21
 L13 18
 VWO4AKRF2FXCDmzUXh?VA@2
@@ -177,62 +177,62 @@ Etb_generic_ripple_adder
 Z34 w1744192489
 R1
 R2
-!i122 5
+!i122 11
 R3
-Z35 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_generic_ripple_adder.vhd
-Z36 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_generic_ripple_adder.vhd
+Z35 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_generic_ripple_adder.vhd
+Z36 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_generic_ripple_adder.vhd
 l0
 L4 1
 V@<BNB_aUz:cEcY[:oi6e?0
 !s100 7N2B5_9??oABBPU_dR:Le3
 R6
 32
-Z37 !s110 1744230063
+Z37 !s110 1744706076
 !i10b 1
-Z38 !s108 1744230063.000000
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_generic_ripple_adder.vhd|
-!s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_generic_ripple_adder.vhd|
+Z38 !s108 1744706076.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_generic_ripple_adder.vhd|
+!s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_generic_ripple_adder.vhd|
 !i113 1
 R11
 R12
 Abehavior
 R1
 R2
-DEx4 work 23 tb_generic_ripple_adder 0 22 @<BNB_aUz:cEcY[:oi6e?0
-!i122 5
+Z40 DEx4 work 23 tb_generic_ripple_adder 0 22 @<BNB_aUz:cEcY[:oi6e?0
+!i122 11
 l28
-L7 56
-V71HhEWW9_@4MV5>kizgm30
-!s100 0kHIJ:<X]X`lc7<8M=UWG2
+Z41 L7 56
+Z42 V71HhEWW9_@4MV5>kizgm30
+Z43 !s100 0kHIJ:<X]X`lc7<8M=UWG2
 R6
 32
 R37
 !i10b 1
 R38
 R39
-Z40 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3 & 4/tb_generic_ripple_adder.vhd|
+Z44 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_generic_ripple_adder.vhd|
 !i113 1
 R11
 R12
 Etb_ripple4_adder
-Z41 w1744229697
+Z45 w1744229697
 R1
 R2
-!i122 3
+!i122 9
 R3
-Z42 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd
-Z43 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd
+Z46 8C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd
+Z47 FC:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd
 l0
 L4 1
 Vl_7>oglI]7HBZQ<H9ehRL3
 !s100 AFMRK_HBgdU6jkB2V]46T0
 R6
 32
-Z44 !s110 1744229751
+Z48 !s110 1744706065
 !i10b 1
-Z45 !s108 1744229751.000000
-Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd|
-Z47 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd|
+Z49 !s108 1744706065.000000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd|
+Z51 !s107 C:/Users/bigbo/Desktop/hw lab/lab1/ex3/tb_RIPPLE4_ADDER.vhd|
 !i113 1
 R11
 R12
@@ -240,18 +240,18 @@ Abehavior
 R1
 R2
 DEx4 work 16 tb_ripple4_adder 0 22 l_7>oglI]7HBZQ<H9ehRL3
-!i122 3
+!i122 9
 l22
 L7 34
 VhT]3<6k6@<2k5d4?_0<h@3
 !s100 PX`OOV2Xj5[BY`:ggS?TM3
 R6
 32
-R44
+R48
 !i10b 1
-R45
-R46
-R47
+R49
+R50
+R51
 !i113 1
 R11
 R12

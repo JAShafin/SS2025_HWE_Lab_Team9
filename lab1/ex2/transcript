@@ -1,3 +1,24 @@
 # Reading pref.tcl
 # OpenFile {C:/Users/bigbo/Desktop/hw lab/lab1/ex2/MY_FULLADDER.mpf}
 # Loading project MY_FULLADDER
+vsim work.tb_my_fulladder
+# vsim work.tb_my_fulladder 
+# Start time: 10:29:54 on Apr 15,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_my_fulladder(sim)
+# Loading work.my_fulladder(structural)
+# Loading work.my_halfadder(behavior)
+add wave -position insertpoint sim:/tb_my_fulladder/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 21:31:58 on Apr 15,2025, Elapsed time: 11:02:04
+# Errors: 0, Warnings: 1

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Apr 25 15:15:39 2025
+# Process ID: 1768
+# Current directory: C:/Users/bigbo/Desktop/AudioTone_FPGA/AudioTone_FPGA.runs/synth_1
+# Command line: vivado.exe -log synth_audio_output.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source synth_audio_output.tcl
+# Log file: C:/Users/bigbo/Desktop/AudioTone_FPGA/AudioTone_FPGA.runs/synth_1/synth_audio_output.vds
+# Journal file: C:/Users/bigbo/Desktop/AudioTone_FPGA/AudioTone_FPGA.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-DU0SUV5
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:2
+# CPU Logical cores :4
+# Host memory       :8464 MB
+# Swap memory       :10130 MB
+# Total Virtual     :18595 MB
+# Available Virtual :3510 MB
+#-----------------------------------------------------------
+source synth_audio_output.tcl -notrace

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../AudioTone_FPGA.srcs/sources_1/new/synth_audio_output.vhd" \
+"../../../../AudioTone_FPGA.srcs/sim_1/new/tb_synth_audio_output.vhd" \
+
+# Do not sort compile order
+nosort
