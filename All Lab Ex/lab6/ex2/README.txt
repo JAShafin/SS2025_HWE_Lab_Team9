@@ -1,0 +1,6 @@
+- clk: Clock input.
+- rst: Resets counter to zero.
+- up: Increases the count.
+- down: Decreases the count.
+- q: 3-bit output, shown also on LEDs or 7-segment display.
+- 7-segment shows current count (0 to 7).

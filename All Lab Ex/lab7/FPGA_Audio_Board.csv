@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D1";"LED_0805_2012Metric";1;"LED";;;
+2;"X1";"Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm";1;"ASCO";;;
+3;"C1,C6,C5,C2,C3,C4";"C_0805_2012Metric";6;"10uF";;;
+4;"SW2";"SW_PUSH_6mm_H5mm";1;"SW_Push";;;
+5;"AUDIO_OUT_HEADER1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02";;;
+6;"R1";"R_0805_2012Metric";1;"330Ω";;;
+7;"U3";"SOT-223-3_TabPin2";1;"AMS1117-1.0";;;
+8;"SW_HEADER1";"PinHeader_1x16_P2.54mm_Vertical";1;"Conn_01x16";;;
+9;"R2";"R_0805_2012Metric";1;"10kΩ";;;
+10;"J1";"TerminalBlock_bornier-2_P5.08mm";1;"Screw_Terminal_01x02";;;
+11;"U4";"Xilinx_CSG324";1;"XC7A100T-CSG324";;;
+12;"U2";"SOT-223-3_TabPin2";1;"AMS1117-1.8";;;
+13;"SW1";"SW_PUSH_6mm_H5mm";1;"SW_SPST";;;
+14;"JTAG1";"PinHeader_2x03_P2.54mm_Vertical";1;"Conn_02x03_Counter_Clockwise";;;
+15;"U1";"SOT-223-3_TabPin2";1;"AMS1117-3.3";;;

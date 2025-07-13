@@ -1,0 +1,8 @@
+FSM Diagram (Text):
+- States: 0 to 7 (3-bit value)
+- Inputs: up, down, rst
+- At reset (rst=1): state -> 0
+- up=1, down=0: state increases (next), wraps to 0 after 7
+- up=0, down=1: state decreases (prev), wraps to 7 after 0
+- up=down: state stays same
+- Output: state as 3-bit, also shown on 7-segment display
